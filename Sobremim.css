@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(64, 65, 65);
+}
+
+button {
+    width: 400px;
+    height: 80px;
+    background-color: rgb(42, 5, 253);    
+    border-radius: 20px;
+}
+
+button p {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 13px;
+    width: 380px;
+}
