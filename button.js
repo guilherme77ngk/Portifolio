@@ -1,7 +1,7 @@
 //efeito do botão voltar ao topo
 
 function topo(){
-    window.scrollto(
+    window.scrollTo(
         {
             top:0,
             left:0,
